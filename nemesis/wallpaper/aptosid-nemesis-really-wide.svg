@@ -10,12 +10,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1920"
-   height="1200"
+   height="1080"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="aptosid-void.svg"
-   inkscape:export-filename="aptosid-void.png"
+   sodipodi:docname="aptosid-nemesis-wide.svg"
+   inkscape:export-filename="aptosid-nemesis.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
    style="display:inline;enable-background:new">
@@ -66,7 +66,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="fred"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-120)">
     <g
        transform="translate(1423.6965,436.09628)"
        id="layer1-7"
@@ -98,6 +99,6 @@
          sodipodi:role="line"
          id="tspan2990"
          x="1577.7393"
-         y="1112.5917">άκυρος</tspan></text>
+         y="1112.5917">Νέμεσις</tspan></text>
   </g>
 </svg>

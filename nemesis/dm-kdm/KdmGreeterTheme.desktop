@@ -1,7 +1,7 @@
 [KdmGreeterTheme]
-Greeter=void.xml
-Name=aptosid-void
-Description=aptosid 2012-01 void KDM Theme
+Greeter=nemesis.xml
+Name=aptosid-nemesis
+Description=aptosid 2013-02 nemesis KDM Theme
 Author=aptosid art team
 Copyright=GPL
 Screenshot=screenshot.png
