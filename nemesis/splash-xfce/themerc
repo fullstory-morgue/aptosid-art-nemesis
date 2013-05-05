@@ -1,5 +1,5 @@
 #
-# Default aptosid 2012-01 void theme 
+# Default aptosid 2013-02 nemesis theme 
 # for xfce4 based on the balou engine
 #
 # Copyright (c) 2010 David Creedy <djcreedy@iinet.net.au>
@@ -28,8 +28,8 @@
 # Info section
 #
 [Info]
-Name=aptosid 2012-01 (void)
-Description=default xfce theme for aptosid 2012-01 release
+Name=aptosid 2013-02 (nemesis)
+Description=default xfce theme for aptosid 2013-02 release
 
 #
 # splash screen settings

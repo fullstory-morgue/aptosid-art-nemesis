@@ -1,1 +1,1 @@
-THEME = aptosid-void
+THEME = aptosid-nemesis
