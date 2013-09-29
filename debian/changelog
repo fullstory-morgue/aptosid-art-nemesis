@@ -1,8 +1,8 @@
-aptosid-art-nemesis (0.0.2) UNRELEASED; urgency=low
+aptosid-art-nemesis (0.1.0) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * update for Νέμεσις, thanks to bfree.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 26 Aug 2013 21:59:41 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Sep 2013 21:29:05 +0200
 
 aptosid-art-nemesis (0.0.1) unstable; urgency=low
 
