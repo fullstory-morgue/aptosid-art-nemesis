@@ -1,9 +1,9 @@
-aptosid-art-nemesis (0.1.1) UNRELEASED; urgency=low
+aptosid-art-nemesis (0.1.1) unstable; urgency=low
 
-  * NOT RELEASED YET
   * s/ourea/nemesis/
+  * update previews.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 29 Sep 2013 21:31:45 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 06 Oct 2013 01:06:32 +0200
 
 aptosid-art-nemesis (0.1.0) unstable; urgency=low
 
