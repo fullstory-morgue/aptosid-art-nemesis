@@ -105,7 +105,7 @@ files: session.png, system.png and oyxgen.svg -
 	<!--Welcome label-->
 	<item type="label" id="welcome">
 		<pos x="20" y="40%^" anchor="w" />
-		<normal color="#CCCCCC" font="Sans 16"/>
+		<normal color="#5B5BFF" font="Sans 16"/>
 		<stock type="welcome-label"/>
 	</item>
 	<!--Footer bar for extra items-->
